@@ -88,7 +88,7 @@ _Görs av hela gruppen_
 _För varje User Story_
 
 1. **Skapa feature branch**
-   ```bash
+```bash
    git checkout main
    git pull origin main
    git checkout -b feature/min-user-story
